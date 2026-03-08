@@ -112,12 +112,13 @@ Robotics • IoT • Embedded Systems
 
 # 📈 Most Used Languages
 
+## 📈 Most Used Languages
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-star2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-star2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
-
 ---
 
 # 🐍 Contribution Snake
@@ -130,8 +131,12 @@ Robotics • IoT • Embedded Systems
 
 # 🏆 GitHub Achievements
 
+## 🏆 GitHub Achievements
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gopal-star2005&theme=algolia&no-frame=true&row=1"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gopal-star2005&theme=tokyonight&no-frame=true&margin-w=10"/>
+
 </p>
 
 ---
