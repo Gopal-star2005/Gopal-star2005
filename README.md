@@ -31,7 +31,7 @@ I enjoy developing **real-world engineering solutions** that solve environmental
 👉 https://my-portfolio-pied-five-ltxleammx5.vercel.app
 
 <p align="center">
-<img src="https://api.microlink.io/?url=https://my-portfolio-pied-five-ltxleammx5.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
+<img src="https://api.microlink.io/?url=https://my-portfolio-pied-five-ltxleammx5.vercel.app&screenshot=true&meta=false&embed=screenshot.url&width=1200" />
 </p>
 
 ---
