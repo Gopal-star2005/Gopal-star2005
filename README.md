@@ -102,8 +102,6 @@ Robotics • IoT • Embedded Systems
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gopal-star2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal-star2005&theme=tokyonight&hide_border=true"/>
 
 </p>
