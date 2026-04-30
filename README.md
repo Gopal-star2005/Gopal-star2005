@@ -62,7 +62,7 @@ IoT • Gas Sensors • Embedded Systems
 
 ---
 
-### 🤖 Smart Agro Robot
+### 🤖 Smart Agriculture Monitoring System
 Autonomous agricultural robot designed for crop monitoring and automation.
 
 Tech Stack:
