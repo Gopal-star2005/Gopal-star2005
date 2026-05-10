@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&color=00E5A0&center=true&vCenter=true&width=1000&lines=Gopal+Krushna+Mahapatra;AIoT+Researcher;IoT+Engineer;AI+%26+ML+Developer;Embedded+Systems+Engineer;Full+Stack+Developer;Researcher+%26+Innovator" />
 </p>
 
+<p align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&color=00E5A0&center=true&vCenter=true&width=900&lines=Gopal+Krushna+Mahapatra;IoT+Engineer;AI+%26+ML+Developer;Embedded+Systems+Engineer;Full+Stack+Developer" /> 
+</p>
+
 <h1 align="center">Gopal Krushna Mahapatra</h1>
 
 <h3 align="center">
