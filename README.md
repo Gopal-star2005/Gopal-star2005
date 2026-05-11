@@ -244,11 +244,15 @@ I continuously participate in:
 </a>
 
 <a href="https://medium.com/@mahapatragopalkrushna34">
-<img src="https://img.shields.io/badge/Medium-00C896?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="mahapatragopalkrushna34@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00C896?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:mahapatragopalkrushna34@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=6hWBhRAAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 
 </p>
