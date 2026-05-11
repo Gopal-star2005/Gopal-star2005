@@ -243,23 +243,15 @@ I continuously participate in:
 <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://medium.com/@mahapatragopalkrushna34">
+<img src="https://img.shields.io/badge/Medium-00C896?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mahapatragopalkrushna34@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-00C896?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
----
-
-# 📬 Contact
-
-📧 Email  
-**mahapatragopalkrushna34@gmail.com**
-
-🌐 Portfolio  
-https://gopalkrushnamahapatra.vercel.app/
-
-💼 LinkedIn  
-https://www.linkedin.com/in/gopal-krushna-mahapatra-3a974928b
-
-🧑‍💻 GitHub  
-https://github.com/Gopal-star2005
 
 ---
 
